@@ -1,0 +1,18 @@
+/*mobile first:*/
+
+.green {
+  background-color: #99C794;
+  width: 100vw;
+  height: 100vh;
+}
+
+/*add tablet here*/
+
+
+/*apply desktop here:*/
+/* Apply a media query to change mobile background color to: #BB80A3*/
+/*@media only screen and (min-width: 961px) {
+  .green {
+    background-color: #BB80A3;
+  }
+}*/
